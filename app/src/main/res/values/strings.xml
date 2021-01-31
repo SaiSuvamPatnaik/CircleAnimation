@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CircleAnimation</string>
+    <color name="menu">#ff4032</color>
+    <color name="notif">#2f2f2f</color>
+</resources>
